@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UsersSharedPreferences</string>
+    <string name="user_row_image_content_description">User Image</string>
+    <string name="shared_preferences_first_time">First_Time</string>
+    <string name="user_register">Registro de Usuario</string>
+    <string name="confirm_first_user_register">Registrate</string>
+    <string name="hint_username">Nombre de Usuario</string>
+    <string name="helper_username">Obligatorio</string>
+    <string name="sp_username">User Name</string>
+    <string name="register_success">Usuario registrado</string>
+</resources>
